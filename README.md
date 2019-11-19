@@ -1,0 +1,2 @@
+# fightman
+learn  typre codes
